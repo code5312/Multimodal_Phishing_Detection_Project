@@ -1,0 +1,13 @@
+AUC: 0.808642
+AP: 0.814466
+Best threshold (F1 on val): 0.900
+Precision@Recall>=0.95: 0.4211 (thr=0.002, recall=0.8889)
+
+              precision    recall  f1-score   support
+
+           0     0.7105    1.0000    0.8308        27
+           1     1.0000    0.3889    0.5600        18
+
+    accuracy                         0.7556        45
+   macro avg     0.8553    0.6944    0.6954        45
+weighted avg     0.8263    0.7556    0.7225        45

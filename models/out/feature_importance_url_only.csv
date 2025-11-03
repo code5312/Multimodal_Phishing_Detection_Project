@@ -1,0 +1,15 @@
+feature,gain_importance
+url_len,1134.1414533760399
+host_entropy,348.56537164885594
+num_digits,215.46220922470093
+path_len,169.24555146694183
+hostname_len,111.86160057625966
+num_dots,31.227259874343872
+num_hyphen,0.0
+num_underscore,0.0
+has_at,0.0
+is_ip,0.0
+is_https,0.0
+path_depth,0.0
+has_suspicious_kw,0.0
+suspicious_token_count,0.0
