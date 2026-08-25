@@ -1,0 +1,24 @@
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# ===== OS / Editor =====
+.DS_Store
+.vscode/
+.idea/
+
+# ===== 환경변수 =====
+.env
+
+# ===== 설치 바이너리 (실수로 커밋됨) =====
+*.deb
+
+# ===== 수집/학습 산출물 =====
+data/collected/
+models/out/*.joblib
+explain/out/*.png
