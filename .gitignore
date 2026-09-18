@@ -22,3 +22,4 @@ env/
 data/collected/
 models/out/*.joblib
 explain/out/*.png
+data/fusion.csv
